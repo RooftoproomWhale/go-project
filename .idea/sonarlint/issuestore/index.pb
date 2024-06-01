@@ -4,8 +4,6 @@
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-8
-hello.go,0\e\0e76fb29ec653ebc03fcf196fa43282f144efabe
 C
 1_Hello_Go/hello.go,3\8\3800d9981d7ade7767af1780aa7e8a69fe43c923
 >
@@ -41,8 +39,20 @@ Q.idea/sonarlint/securityhotspotstore/3/1/3148f6485d9ef78059d78b7006c3cf9bc6ae44
 Å
 Q.idea/sonarlint/securityhotspotstore/3/8/3800d9981d7ade7767af1780aa7e8a69fe43c923,a\d\adab7aa541c5150ad422e622d5b364f23a6526ed
 w
-G.idea/sonarlint/issuestore/0/e/0e76fb29ec653ebc03fcf196fa43282f144efabe,5\f\5f8ddeb23e1e53162d53cb285e2619ecaa16948d
-Å
-Q.idea/sonarlint/securityhotspotstore/0/e/0e76fb29ec653ebc03fcf196fa43282f144efabe,e\4\e474f4396a24595de1f2397b340af096a33af59f
-w
 G.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,e\d\ed67eb178d523a4b3f117dcbe0eda5196367ceec
+A
+3_fmt/fmtPrint.go,9\b\9bab762a2fa90c4e8ea1d778e2080c6a60b82da6
+C
+3_fmt/fmt_printf.go,d\7\d7132f0394b9210ccca6fe7888f194d9a5d663b9
+I
+3_fmt/fmt_float_printf.go,1\6\16e2d35739df9ecc5edc7cde3b24df9057819c4c
+A
+3_fmt/fmt_scan.go,1\7\17f6b9b7f7379a1cb75dff7cbf999a090ce5a0bd
+B
+3_fmt/fmt_scanf.go,8\f\8f9c4c14fe27a66aad75121732313a1bba8300f4
+C
+3_fmt/fmt_scanln.go,c\5\c577cc3a67735abb69e9a46ef02147a302013cc2
+<
+3_fmt/fmt.go,8\7\8771bc2e2a2aff22c0acfdaea40a5ff5661e59f2
+B
+3_fmt/fmt_print.go,5\f\5f6addddec2a1e026e24e0d4a2060cac2aad4495
